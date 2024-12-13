@@ -1,0 +1,10 @@
+python-dotenv>=0.21.0
+PyPDF2>=3.0.1
+langchain>=0.3.11
+langchain-groq>=0.2.1
+transformers>=4.47.0
+beautifulsoup4>=4.11.1
+fastapi>=0.115.6
+uvicorn>=0.32.1
+jinja2>=3.1.2
+pydantic>=2.10.3
